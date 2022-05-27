@@ -1,2 +1,6 @@
 this is a test file line
 line 2 added in the central repo
+this is line on local branch b2
+this is line on remote branch b2
+
+line 6 on remote branch main
